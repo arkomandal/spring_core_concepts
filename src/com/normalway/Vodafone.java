@@ -1,4 +1,4 @@
-package com.arko;
+package com.normalway;
 
 
 public class Vodafone implements Sim {

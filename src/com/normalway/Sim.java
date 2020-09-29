@@ -1,4 +1,4 @@
-package com.arko;
+package com.normalway;
 
 public interface Sim {
 	public static final String calling = "";
