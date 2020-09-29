@@ -1,4 +1,4 @@
-package com.springway;
+package com.springway.xml;
 
 public class Mobile {
 	public static void main(String args[]) {
